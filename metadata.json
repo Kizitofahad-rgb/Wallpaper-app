@@ -1,0 +1,6 @@
+{
+  "name": "OmniAnime 4K",
+  "description": "Hyper-realistic 4K anime wallpapers with immersive depth and real-time gyro parallax 3D effect.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
